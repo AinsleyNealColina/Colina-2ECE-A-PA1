@@ -22,4 +22,12 @@ For the second problem we are tasked to create a function that changes specific 
 as a string, replace the words smile, grin, sad and mad with their corresponding emoticon:
 Example # "smile"=':)'
 
-1st we are going to create the function emotify(sentence)
+1st we are going to create the name of the function emotify(sentence)after that  we are gonna write emoticon_dict to store our words and turn them into emoticons
+
+2nd we are gonna add the split function to seperate the sentence into words
+
+3rd we are gonna create an interactive loop that asks us a sentence, using the while loop.Then to break the loop or end the code we must type 'exit'.
+
+4th we are going to convert the sentence then show the result, we need to assign the result as the emotify(user_input) then print(and call back the result )
+
+Lastly the last part:if name = main:main() it is to start our function
