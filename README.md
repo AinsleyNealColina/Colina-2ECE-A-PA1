@@ -16,7 +16,9 @@ return ''.join(sorted(word)).This function takes a string and returns its letter
 4th we are going to call back and show the function, to do this we are gonna name it result and it is equal to our (user input),then print the result.
 
 Lastly the last part:if name = main:main() it is to start our function
+``` python
 
+sss
 # Problem 2
 For the 2nd problem we are tasked to create a function that changes specific words into emoticons. Given a sentence
 as a string, replace the words smile, grin, sad and mad with their corresponding emoticon:
