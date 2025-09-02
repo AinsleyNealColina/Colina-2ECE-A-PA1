@@ -5,19 +5,17 @@ For the 1st problem we are tasked to create a function that takes a string and r
 Example # "hello" -> ehllo
 
 1st we are going to create the function: alphabet_soup(word)
-``` Python
-2nd we are going to create a loop: def main():
-    while True:
-    user_input = input("Enter a word (or type 'exit' to quit): ") This allows the user to type any word they want
 
+2nd we are going to create a loop: def main():
+   ``` while True:
+    user_input = input("Enter a word (or type 'exit' to quit): ") This allows the user to type any word they want
+```
 3rd we are going to create the break,this is to stop the loop and to stop it we need to type "exit"
 
 4th we are going to call back and show the function, to do this we are gonna name it result and it is equal to our (user input),then print the result.
 
 Lastly the last part:if name = main:main() it is to start our function
 
-
-sss
 # Problem 2
 For the 2nd problem we are tasked to create a function that changes specific words into emoticons. Given a sentence
 as a string, replace the words smile, grin, sad and mad with their corresponding emoticon:
