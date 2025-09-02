@@ -19,7 +19,12 @@ def main():
 ```
 This will allow the user to type any word they want.
 
-3rd we are going to create the break,this is to stop the loop and to stop it we need to type "exit"
+3rd we are going to create the break,this is to stop the loop and to stop it we need to type "exit".
+```
+if user_input.lower() == 'exit':
+            print("Goodbye!")
+            break
+```
 
 4th we are going to call back and show the function, to do this we are gonna name it result and it is equal to our (user input),then print the result.
 
