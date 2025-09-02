@@ -15,9 +15,9 @@ def alphabet_soup(word):
 ```
 def main():
   while True:
-    user_input = input("Enter a word (or type 'exit' to quit): ") This allows the user to type any word they want
+    user_input = input("Enter a word (or type 'exit' to quit): ") 
 ```
-This will allow the user to type any words.
+This will allow the user to type any word they want.
 
 3rd we are going to create the break,this is to stop the loop and to stop it we need to type "exit"
 
