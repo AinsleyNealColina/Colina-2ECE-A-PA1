@@ -7,7 +7,7 @@ Example # "hello" -> ehllo
 1st we are going to create the function: alphabet_soup(word)
 
 2nd we are going to create a loop: def main():
-   ``` while True:
+  ```while True:
     user_input = input("Enter a word (or type 'exit' to quit): ") This allows the user to type any word they want
 ```
 3rd we are going to create the break,this is to stop the loop and to stop it we need to type "exit"
