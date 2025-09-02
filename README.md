@@ -6,6 +6,10 @@ For the 1st problem we are tasked to create a function that takes a string and r
 Example # "hello" -> ehllo
 
 1st we are going to create the function: alphabet_soup(word)
+```
+def alphabet_soup(word):
+    return ''.join(sorted(word))
+```
 
 2nd we are going to create a loop: 
 ```
