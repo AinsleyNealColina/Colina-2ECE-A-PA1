@@ -5,8 +5,7 @@ For the 1st problem we are tasked to create a function that takes a string and r
 Example # "hello" -> ehllo
 
 1st we are going to create the function: alphabet_soup(word)
-return ''.join(sorted(word)).This function takes a string and returns its letters sorted alphabetically that is what the sort is for.
-
+``` Python
 2nd we are going to create a loop: def main():
     while True:
     user_input = input("Enter a word (or type 'exit' to quit): ") This allows the user to type any word they want
