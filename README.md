@@ -1,4 +1,10 @@
-# Colina-2ECE-A-PA1
+# Colina-2ECE-A-PA1(INTRODUCTION TO PYTHON PROGRAMMING)
+
+##Objectives:
+
+1.To identify the basic codes and functions in Python Programming
+
+2.To be able to apply the different codes and functions in creating a Python program,
 
 # Problem 1
 For the 1st problem we are tasked to create a function that takes a string and returns a string with its letters in alphabetical order.
